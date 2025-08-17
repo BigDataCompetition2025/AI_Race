@@ -19,6 +19,7 @@ venv/
 *.pickle
 *.pkl
 
+
 # 大型原始資料與輸出 (不要上傳整包訓練/預測結果)
 2025_dataset_0806 3/
 preds_out/
